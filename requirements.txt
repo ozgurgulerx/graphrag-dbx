@@ -2,4 +2,5 @@ databricks-sdk
 delta-spark
 openai
 python-dotenv
+kaggle
 
